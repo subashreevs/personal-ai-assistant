@@ -1,0 +1,192 @@
+Contact
+New York, United States
+subashree.sundharesan@gmail
+.com
+www.linkedin.com/in/subashreevs
+(LinkedIn)
+Top Skills
+Retrieval-Augmented Generation
+(RAG)
+Vector Databases
+LLaMA
+Languages
+Hindi (Professional Working)
+English (Full Professional)
+Sanskrit (Elementary)
+German (Elementary)
+Telugu (Elementary)
+Tamil (Native or Bilingual)
+Certifications
+Certified SAFe® 5 Practitioner
+Fundamentals of Deep Learning
+Data Analyst with Python Track
+(Specialization)
+Finance for Engineering
+Professionals
+Introduction to Internet of Things
+(NPTEL)
+Honors-Awards
+Cytric Voice - People's Choice
+Award
+Subashree V S
+Seeking Full Time Roles Summer 2026 | Gen AI Software Engineer
+| SWE Intern @Simons Foundation | MS CS @Indiana University
+| SDE @Amadeus | CS Graduate @Anna University | Teaching &
+Research Assistant | Data Engineer
+New York City Metropolitan Area
+Summary
+I am a dedicated and versatile computer science engineer currently
+pursuing my MS in Computer Science at Indiana University
+Bloomington, driven by a passion for crafting efficient and scalable
+applications that deliver exceptional value. Prior to my academic
+journey, I gained two years of industry experience as a software
+engineer where I honed my ability to transform complex challenges
+into elegant solutions. I hold a Bachelor's in Computer Science
+and Engineering from Anna University, India, where I built a
+robust foundation in algorithms, data structures, and machine
+learning. I am a firm believer in the power of hands-on projects
+to bridge theory and practice, thriving on practical experience to
+deepen my understanding. Throughout my journey, I have explored
+various facets of computer science - including UI design, backend
+development, database management, machine learning, and data
+analytics - because why limit myself to just one area of expertise
+when I can collect them all like Pokémon?
+SKILLS:
+Programming Languages: Python, Java, C, SQL, JavaScript,
+TypeScript
+Frontend: Angular, React, Tailwind, NgRx(Redux), HTML, CSS,
+Angular Material, Bootstarp, Jasmine & Karma
+Backend: Spring Boot, JUnit, MySQL, Oracle SQL, MongoDB,
+PostgreSQL
+Machine Learning: Numpy, Pandas, Matplotlib, Scikitlearn,
+NetworkX, Jupyter Notebook, Google Colab
+Developer Tools: Git, Jira, Postman, Docker, Podman, VS Code,
+IntelliJ, Eclipse, Microsoft Azure, Word, Excel, Jenkins, OpenShift,
+Shell Script
+Languages: English, Hindi, Tamil, German, Telugu
+Page 1 of 5
+Experience
+Luddy School of Informatics, Computing, and Engineering,
+Indianapolis
+Associate Instructor
+August 2025 - Present (5 months)
+Bloomington, IN
+• Mentored 50+ students in Python, Data Structures, NumPy, Pandas, and
+Matplotlib for a graduate level course (DSCI D590: Introduction to Python
+Programming)
+• Led a team of teaching assistants to deliver debugging support and hands-on
+guidance in weekly labs, assignments and office hours.
+• Co-developed and delivered lectures with the professor, strengthening
+student skills through practical coding exercises, quizes and structured
+problem-solving sessions.
+• Supported end-to-end student projects by grading assignments, reviewing
+code, improving modularity, and reinforcing best practices in algorithms, data
+analysis and visualization.
+Simons Foundation
+Software Engineer Intern
+May 2025 - August 2025 (4 months)
+New York, United States
+• Designed and deployed an interactive High Performance Computing
+Benchmarks Application centralizing 1,000+ runs and 20,000+ data points
+from 30+ CPU and GPU architectures, reducing manual comparison time for
+researchers by 70%+
+• Built Python-based ETL pipelines to parse 10,000+ raw files (CSV, YAML,
+JUBE logs), perform unit conversions, data cleaning, and normalize datasets,
+feeding into a unified MongoDB schema that cut query time by 50%
+• Developed RESTful APIs with FastAPI serving sub-second response times
+for complex queries, enabling real-time hardware comparisons, performance
+scaling, anomaly detection, and drill-down diagnostics
+• Implemented a responsive React frontend with Material UI, Chart.js, and
+D3.js to deliver 20+ interactive visualizations, improving decision making &
+insights for 15+ researchers. Integrated IP-based access control to safeguard
+sensitive results
+Amadeus
+2 years 6 months
+Page 2 of 5
+Software Development Engineer 1
+August 2022 - August 2024 (2 years 1 month)
+Bengaluru, Karnataka, India
+• Developed reusable UI components for Air, Hotel, and Rail booking flows
+and redesigned a comprehensive user notification module ensuring seamless
+compatibility across 10,000+ production systems. (Java, SpringBoot, Angular,
+XSLT and Closure)
+• Implemented sustainability-focused features, such as CO2 emissions for
+flights & recommending eco-friendly hotels, for environmental awareness.
+Optimized Oracle SQL stored procedures, resulting in a 42% increase in page
+load efficiency.
+• Led repository migration from BitBucket to GitHub, modernizing version
+control systems and enhancing DevOps workflows using Microsoft Azure for
+cloud-based CI/CD pipelines.
+• Developed Spring Boot microservices for re-encryption processes, ensuring
+data security and improved performance.
+• Achieved over 90% JUnit test coverage, ensuring high code quality and
+reliability, and deployed applications to the OpenShift cloud platform via
+Jenkins for quality testing and seamless production rollouts.
+• Automated the developer environment setup process using scripts, reducing
+onboarding time by 75% (10 to 2.5 days)
+• Mentored 6+ new hires and interns by providing technical guidance and
+helped with setup, KTs to ensure team success.
+Software Engineer Intern
+March 2022 - July 2022 (5 months)
+Bengaluru, Karnataka, India
+• Modernized a 20-year-old translation tool, addressing key pain points and
+improving efficiency with 30% performance boost.
+• Redesigned the front-end using Angular SPA and Angular Material,
+integrated with NgRx (Redux) for state management
+• Rebuilt back-end logic with Spring Boot, replacing legacy Java Servlets, &
+developed REST APIs to streamline CRUD operations. Created unit test cases
+using JUnit5, Mockito, Jasmine & Karma ensuring maintainable code.
+• Containerized the application with Docker and deployed it to Azure App
+Service for seamless cloud scalability.
+SSN College of Engineering
+Research Assistant
+June 2021 - July 2022 (1 year 2 months)
+Chennai, Tamil Nadu, India
+Page 3 of 5
+• Worked under the guidance of Professor Dr. Felix Enigo V S (SNA, ML,
+Web Technologies) and proposed a tool that can be used for visualization and
+investigation of real-world crime networks, based on Social Network Analysis.
+• Created dynamic network graphs using Python, JavaScript & frameworks
+such as NetworkX, Pyvis, Vis.js.
+• Computed centrality measures, detected communities, added searching and
+filtering functionality based on names, crimes, locations of the criminals and
+visually represented them in the network.
+• Used path finding and shortest path algorithms to find the links and people
+between any two criminals.
+• Developed a web application that could be used to gain insights from the
+analysis made for any given dataset. Dataset consists of data that is cleaned
+and extracted from word documents used by the Police Department.
+• Demonstrated the tool at the State Crime Records Bureau, Tamil Nadu.
+Tech Stack:
+Python, NetworkX, Javascript, Vis.js, HTML, CSS, JSON
+CDAC
+Frontend Developer
+April 2021 - June 2021 (3 months)
+Chennai, Tamil Nadu, India
+• Built a crime visualization tool for the Tamil Nadu Police Department to help
+them analyze crimes across the state.
+• Created the dashboard such that it generates dynamic graphs and reports
+based on the conditions given by the
+user, across different timelines and criminal cases.
+• Constructed different queries for the conditions and made API calls to fetch
+the required data from backend.
+• Coordinated with the Big Data Team and improved the speed and
+functionality of the dashboard.
+Tech Stack:
+Javascript, Chart.js, Jquery, HTML, CSS, Bootstrap.
+MedTourEasy
+Data Analyst
+February 2021 - February 2021 (1 month)
+• Worked on a model that predicts blood donations for a blood transfusion
+center.
+Page 4 of 5
+• Used Python and libraries such as Pandas. Numpy, MatPlotLib and
+ScikitLeam.
+Education
+Indiana University Bloomington
+Master of Science - MS, Computer Science · (August 2024 - May 2026)
+SSN College of Engineering
+Bachelor of Engineering - BE, Computer Science · (August 2018 - June 2022)
+D.A.V. Group of Schools, Chennai
+Mathematics, Science and Computer Science · (June 2018)
+Page 5 of 5

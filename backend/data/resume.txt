@@ -1,0 +1,57 @@
+Subashree Venkatesan Sundharesan
+https://www.linkedin.com/in/subashreevs | https://github.com/subashreevs | https://subashreevs.vercel.app
+Bloomington, IN, United States | +1 (812) 318-0901 | subavenk@iu.edu
+Education
+Master of Science in Computer Science GPA: 3.83/4
+Indiana University - Bloomington, IN, USA August 2024 – May 2026
+Coursework: Applied Algorithms, Advanced Database Concepts, Applied Machine Learning, Software Engineering, Mobile
+Application Development (Android and iOS), Applied Database Technologies, Computer Networks, HCI, System Security
+Work Experience
+Software Engineer Intern May 2025 – August 2025
+Simons Foundation New York, NY, USA
+• Designed and deployed an interactive High Performance Computing Benchmarks Application centralizing 1,000+ runs and
+20,000+ data points from 30+ CPU and GPU architectures, reducing manual comparison time for researchers by 70%+
+• Built Python-based ETL pipelines to parse 10,000+ raw files (CSV, YAML, JUBE logs), perform unit conversions, handle
+missing values, and normalize datasets, feeding into a unified MongoDB schema that cut query time by 50%
+• Developed RESTful APIs with FastAPI serving sub-second response times for complex queries, enabling real-time hardware
+comparisons, performance scaling, anomaly detection, and drill-down diagnostics
+• Implemented a responsive React frontend with Material UI, Chart.js, and D3.js to deliver 20+ interactive visualizations,
+improving decision making & insights for 15+ researchers. Integrated IP-based access control to safeguard sensitive results.
+Software Engineer August 2022 – August 2024
+Amadeus Bangalore, KA, India
+• Developed reusable UI components for Air, Hotel, and Rail booking flows and redesigned a comprehensive user notification
+module ensuring seamless compatibility across 10,000+ production systems. (Java, SpringBoot, Angular, XSLT and Closure)
+• Implemented sustainability-focused features, such as CO2 emissions for flights & recommending eco-friendly hotels, for
+environmental awareness. Optimized Oracle SQL stored procedures, resulting in a 42% increase in response time.
+• Led repository migration from BitBucket to GitHub, modernizing version control systems and enhancing DevOps workflows
+using Microsoft Azure for cloud-based CI/CD pipelines.
+• Developed Spring Boot microservices for re-encryption processes, ensuring data security and improved performance.
+• Achieved over 90% JUnit test coverage, ensuring high code quality and reliability, and deployed applications to the OpenShift
+cloud platform via Jenkins for quality testing and seamless production rollouts.
+• Automated the developer environment setup process using scripts, reducing onboarding time by 75% (10 to 2.5 days)
+• Mentored 6+ new hires and interns by providing technical guidance and helped with setup, KTs to ensure team success.
+Software Engineer Intern March 2022 – July 2022
+Amadeus Bangalore, KA, India
+• Modernized a 20-year-old translation tool, addressing key pain points and improving efficiency with 30% performance boost.
+• Redesigned the front-end using Angular SPA and Angular Material, integrated with NgRx (Redux) for state management.
+• Rebuilt back-end logic with Spring Boot, replacing legacy Java Servlets, & developed REST APIs to streamline CRUD
+operations. Created unit test cases using JUnit5, Mockito, Jasmine & Karma ensuring maintainable code.
+• Containerized the application with Docker and deployed it to Azure App Service for seamless cloud scalability.
+Projects
+AI Learning Planner | DeepSeek API, Pinecone, AWS Textract, FastAPI, React, TypeScript, Tailwind, Vite, REST APIs
+Built an AI-driven platform that generates personalized learning paths from topics or resumes. Used DeepSeek API for LLM
+inference, Pinecone vector database for semantic retrieval and AWS Textract for resume parsing. Developed a FastAPI backend
+and a responsive React + Tailwind frontend for real-time roadmap generation.
+SyncUp: Mood & Cycle Tracker (Mobile App) | Swift, iOS, SwiftUI, CoreData, Charts, UserNotifications
+Developed an iOS application using SwiftUI that enables mood journaling, menstrual cycle phase tracking, and trend visualization
+with CoreData storage, Charts-based reports, daily notifications, and personalized productivity tips.
+Technical Skills
+Programming Languages: Python, Java, C, PL/SQL, JavaScript, TypeScript
+Frontend: Angular, React, Tailwind, NgRx(Redux), HTML, CSS/SCSS, Material UI, Bootstarp, Chart.js, D3.js
+Backend: Spring Boot, Hibernate, JDBC, JUnit, Jest, Node.js, Firebase, Flask, FastAPI
+Database: MySQL, Oracle SQL, MongoDB, NoSQL PostgreSQL, SQLite
+AI/ML: OpenAI GPT, DeepSeek LLM, Pincone VectorDB, PyTorch, Numpy, Pandas, Matplotlib, Scikitlearn, NetworkX
+Mobile Development: Kotlin, Android Studio, JetPack Compose, Swift, XCode, Flutter
+Developer Tools: AWS, Git, GitHub, GitLab, GitHub Copilot, BitBucket, Azure, Jenkins, OpenShift, Docker, Podman,
+RabbitMQ, Postman, Jira, Confluence, SonarQube, Kibana, Unix/Linux, Technical Documentation, Agile Methodologies, Scrum,
+SAFe Practices
