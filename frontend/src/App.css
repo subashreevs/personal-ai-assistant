@@ -816,3 +816,90 @@ body {
     flex: 0 0 40px;
   }
 }
+
+/* Plain background theme override */
+.app-root {
+  background: #050505;
+}
+
+.app-root::before,
+.app-root::after {
+  display: none;
+}
+
+.chat-card::before {
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.10), transparent 34%, rgba(255, 255, 255, 0.035));
+}
+
+.message-user .message-bubble {
+  border-color: rgba(255, 255, 255, 0.22);
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.input-row button {
+  background: rgba(255, 255, 255, 0.20);
+}
+
+.input-row button:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.28);
+}
+
+.input-row input:hover,
+.input-row input:focus {
+  border-color: rgba(255, 255, 255, 0.30);
+}
+
+.theme-light {
+  background: #f7f7f5;
+  color: #181818;
+}
+
+.theme-light::before,
+.theme-light::after {
+  display: none;
+}
+
+.theme-light .chat-card {
+  border-color: rgba(0, 0, 0, 0.10);
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.82), rgba(255, 255, 255, 0.58)),
+    rgba(255, 255, 255, 0.76);
+  box-shadow:
+    0 28px 80px rgba(0, 0, 0, 0.13),
+    inset 0 1px 0 rgba(255, 255, 255, 0.82);
+}
+
+.theme-light .chat-card::before {
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.70), transparent 38%, rgba(255, 255, 255, 0.22));
+}
+
+.theme-light .chat-header h1,
+.theme-light .header-links a,
+.theme-light .theme-toggle,
+.theme-light .prompt-chip,
+.theme-light .message-user .message-bubble,
+.theme-light .input-row input,
+.theme-light .input-row button {
+  color: #181818;
+}
+
+.theme-light .input-row button {
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.theme-light .input-row button:hover:not(:disabled) {
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.theme-light .input-row input:hover,
+.theme-light .input-row input:focus,
+.theme-light .prompt-chip:hover:not(:disabled),
+.theme-light .header-links a:hover,
+.theme-light .theme-toggle:hover {
+  border-color: rgba(0, 0, 0, 0.18);
+}
+
+.theme-light .message-user .message-bubble {
+  border-color: rgba(0, 0, 0, 0.12);
+  background: rgba(0, 0, 0, 0.075);
+}

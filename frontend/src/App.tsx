@@ -195,24 +195,24 @@ function App() {
               )}
             </button>
             <nav className="header-links" aria-label="Profile links">
-            <a href="/resume.pdf" target="_blank" rel="noreferrer" aria-label="Open resume" title="Resume">
-              <svg className="link-icon" viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M7 3h7l5 5v13H7z" />
-                <path d="M14 3v6h5" />
-                <path d="M9.5 13h5" />
-                <path d="M9.5 16h5" />
-              </svg>
-              <span className="link-label">Resume</span>
-            </a>
-            <a href={LINKEDIN_URL} target="_blank" rel="noreferrer" aria-label="Open LinkedIn" title="LinkedIn">
-              <svg className="link-icon" viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M6.5 10v8" />
-                <path d="M6.5 6.5v.01" />
-                <path d="M11 18v-8" />
-                <path d="M11 13.5c0-2 1.2-3.5 3.2-3.5s3.3 1.3 3.3 3.8V18" />
-              </svg>
-              <span className="link-label">LinkedIn</span>
-            </a>
+              <a href="/resume.pdf" target="_blank" rel="noreferrer" aria-label="Open resume" title="Resume">
+                <svg className="link-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M7 3h7l5 5v13H7z" />
+                  <path d="M14 3v6h5" />
+                  <path d="M9.5 13h5" />
+                  <path d="M9.5 16h5" />
+                </svg>
+                <span className="link-label">Resume</span>
+              </a>
+              <a href={LINKEDIN_URL} target="_blank" rel="noreferrer" aria-label="Open LinkedIn" title="LinkedIn">
+                <svg className="link-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M6.5 10v8" />
+                  <path d="M6.5 6.5v.01" />
+                  <path d="M11 18v-8" />
+                  <path d="M11 13.5c0-2 1.2-3.5 3.2-3.5s3.3 1.3 3.3 3.8V18" />
+                </svg>
+                <span className="link-label">LinkedIn</span>
+              </a>
             </nav>
           </div>
         </header>
@@ -278,7 +278,7 @@ function App() {
           <div className="input-row">
             <input
               type="text"
-              placeholder="Ask something casual..."
+              placeholder="Ask something about Suba..."
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={handleKeyDown}
