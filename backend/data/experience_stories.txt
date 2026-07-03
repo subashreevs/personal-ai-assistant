@@ -1,0 +1,229 @@
+# Experience Stories
+
+## GlobalNOC - Software Engineer
+
+Dates:
+June 2026 - Present
+
+Known details:
+Subashree is working as a Software Engineer at GlobalNOC. The available information mentions Apache Kafka as a relevant skill for this role.
+
+Notes for assistant:
+Only limited details are available for this current role. If asked, the assistant can mention that Subashree is working at GlobalNOC as a Software Engineer and has exposure to Apache Kafka, but should avoid inventing project details unless more information is added later.
+
+## GlobalNOC - Security Software Engineer Intern
+
+Dates:
+January 2026 - May 2026
+
+Location:
+Bloomington, Indiana, United States
+
+Story:
+Subashree worked on distributed security monitoring and alerting systems that supported 700+ institutions. The platform integrated real-time performance metrics, dashboard visualizations, and multi-channel alerts for 24/7 national CSIRT incident response.
+
+What she built:
+- Python-based backend services for multi-cluster Elastic Stack environments
+- Health checks for distributed monitoring systems
+- pytest-based unit tests
+- Sparse feed detection to reduce false positive alerts
+- A production-grade structured JSON logging framework
+- Centralized logging schemas with cluster-aware context
+- Configurable log levels and noise suppression
+- Migration work from Elasticsearch to OpenSearch
+
+Impact:
+- Reduced false positive alerts by 95% through sparse feed detection and better health checks
+- Helped eliminate licensing costs through Elasticsearch to OpenSearch migration
+- Supported infrastructure savings of $1 million+ annually while preserving scalability and performance
+- Standardized logging across distributed services
+
+What this shows:
+This experience shows Subashree's ability to work on security infrastructure, backend services, distributed systems, observability, testing, and cost-saving migrations in production-oriented environments.
+
+## Simons Foundation - Summer Research Associate
+
+Dates:
+June 2026 - Present
+
+Location:
+New York, New York, United States
+
+Known details:
+Subashree is listed as a Summer Research Associate at Simons Foundation. Additional project details have not been provided yet.
+
+Notes for assistant:
+The assistant can mention the role title and organization, but should not invent responsibilities beyond the available information. More details can be added later.
+
+## Indiana University Maurer School of Law - Research Software Engineer
+
+Dates:
+January 2026 - May 2026
+
+Location:
+Bloomington, Indiana, United States
+
+Story:
+Subashree worked as a part-time Research Software Engineer on interdisciplinary research involving court documents and legal data. The work focused on extracting, validating, normalizing, and preparing structured metadata for analysis.
+
+What she built:
+- Backend data pipelines in Python for court-document metadata extraction
+- Validation and normalization flows for case IDs, dates, actors, document types, language, and URLs
+- Large-batch document processing workflows using IU Quartz HPC
+- Reusable extraction components with pagination handling
+- Data cleaning and fault-tolerant processing for long-running jobs
+- Standardized schema and outputs for downstream analytics and visualization
+
+Recognition:
+She was selected as one of the Top 5 students in the Computer Science department by IU's Faculty Assistance in Data Science program to work on interdisciplinary research related to secrecy and redaction practices in international war crimes tribunals.
+
+What this shows:
+This experience shows Subashree's ability to build research software, backend data pipelines, HPC-supported workflows, fault-tolerant extraction systems, and tools for legal/document analysis.
+
+## Indiana University Luddy School - Graduate Teaching Assistant
+
+Dates:
+August 2025 - May 2026
+
+Location:
+Bloomington, Indiana, United States
+
+Story:
+Subashree worked as a Graduate Teaching Assistant for a graduate-level Python programming course. She mentored 70+ students in Python, Data Structures, NumPy, Pandas, Matplotlib, and Scikit-Learn.
+
+What she did:
+- Led a team of teaching assistants
+- Delivered debugging support in weekly labs, assignments, and office hours
+- Co-developed and delivered lectures with the professor
+- Helped students strengthen practical coding and problem-solving skills
+- Reviewed student projects and code
+- Improved modularity, data analysis practices, visualization, and algorithmic thinking
+
+What this shows:
+This experience shows Subashree's communication skills, mentorship ability, Python/data science teaching experience, and comfort explaining technical ideas clearly.
+
+## Simons Foundation - Software Engineer Intern
+
+Dates:
+May 2025 - August 2025
+
+Location:
+New York, United States
+
+Story:
+Subashree designed and deployed an interactive High Performance Computing benchmarks application that centralized 1,000+ benchmark runs and 20,000+ data points from 30+ CPU and GPU architectures.
+
+What she built:
+- Python ETL pipelines for 10,000+ raw files including CSV, YAML, and JUBE logs
+- Unit conversion, data cleaning, missing-value handling, and normalization flows
+- Unified MongoDB schema for benchmark data
+- FastAPI REST APIs with sub-second response times
+- React frontend with Material UI, Chart.js, and D3.js
+- 20+ interactive visualizations for researchers
+- IP-based access control for sensitive results
+
+Impact:
+- Reduced manual comparison time for researchers by 70%+
+- Cut query time by 50%
+- Improved decision-making and insights for 15+ researchers
+
+What this shows:
+This experience shows Subashree's strength in full-stack engineering, data engineering, APIs, dashboard development, visualization, and user-focused research tooling.
+
+## Amadeus - Software Development Engineer 1
+
+Dates:
+August 2022 - August 2024
+
+Location:
+Bengaluru, Karnataka, India
+
+Story:
+Subashree worked on large-scale travel technology systems, including booking flows, notification systems, sustainability-focused features, microservices, DevOps workflows, and developer productivity.
+
+What she built or improved:
+- Reusable UI components for Air, Hotel, and Rail booking flows
+- Comprehensive user notification module compatible across 10,000+ production systems
+- Sustainability-focused features such as CO2 emissions for flights and eco-friendly hotel recommendations
+- Oracle SQL stored procedure optimizations
+- Spring Boot microservices for re-encryption processes
+- Repository migration from BitBucket to GitHub
+- Developer environment automation scripts
+- Production deployments through Jenkins and OpenShift
+
+Impact:
+- Improved page-load efficiency by 42%
+- Reduced developer onboarding time by 75%, from 10 days to 2.5 days
+- Achieved over 90% JUnit test coverage
+- Mentored 6+ new hires and interns
+
+What this shows:
+This experience shows Subashree's ability to work on production systems at scale, improve performance, support DevOps modernization, build secure backend services, and mentor teammates.
+
+## Amadeus - Software Engineer Intern
+
+Dates:
+March 2022 - July 2022
+
+Story:
+Subashree modernized a 20-year-old translation tool by redesigning the frontend, rebuilding backend logic, and improving maintainability.
+
+What she built:
+- Angular SPA frontend
+- Angular Material UI
+- NgRx/Redux state management
+- Spring Boot backend replacing legacy Java Servlets
+- REST APIs for CRUD operations
+- Unit tests using JUnit5, Mockito, Jasmine, and Karma
+- Docker containerization
+- Azure App Service deployment
+
+Impact:
+Improved tool performance by 30% and made the system more maintainable and scalable.
+
+What this shows:
+This experience shows Subashree's ability to modernize legacy systems, connect frontend and backend work, improve performance, and build maintainable applications.
+
+## SSN College of Engineering - Research Assistant
+
+Dates:
+June 2021 - July 2022
+
+Location:
+Chennai, Tamil Nadu, India
+
+Story:
+Subashree worked on a Social Network Analysis-based tool for visualizing and investigating real-world crime networks.
+
+What she built:
+- Dynamic network graphs using Python, JavaScript, NetworkX, Pyvis, and Vis.js
+- Centrality measures and community detection
+- Search and filtering by names, crimes, locations, and criminals
+- Shortest-path and path-finding features to find links between people
+- A web application for analyzing cleaned datasets extracted from police department documents
+
+Impact:
+The tool was demonstrated at the State Crime Records Bureau, Tamil Nadu.
+
+What this shows:
+This experience shows Subashree's ability to apply algorithms, graph analytics, visualization, and research software development to real-world investigative problems.
+
+## CDAC - Frontend Developer Intern
+
+Dates:
+April 2021 - June 2021
+
+Location:
+Chennai, Tamil Nadu, India
+
+Story:
+Subashree built a crime visualization dashboard for the Tamil Nadu Police Department to help analyze crimes across the state.
+
+What she built:
+- Dynamic dashboards and reports
+- Query-driven visualizations across timelines and criminal cases
+- API calls to fetch data from the backend
+- Frontend views using JavaScript, Chart.js, jQuery, HTML, CSS, and Bootstrap
+
+What this shows:
+This experience shows Subashree's early frontend and visualization experience, especially around dashboards, data exploration, and cross-team collaboration with a Big Data team.

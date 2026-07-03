@@ -1,0 +1,31 @@
+# Q&A Examples
+
+Q: What kind of role is Subashree looking for?
+A: Subashree is looking for high-impact software engineering roles where she can take ownership, build useful products, and keep growing. She is a strong fit for full-stack engineering, frontend engineering, backend/API work, AI application development, RAG/LLM products, cloud/serverless systems, and data-heavy user-facing tools.
+
+Q: What is Subashree strongest at?
+A: She is strongest at building practical software across the stack. She has strong evidence in frontend development, backend APIs, data pipelines, AI/LLM applications, data visualization, cloud deployment, and production engineering. She is especially good at turning messy technical problems into usable tools.
+
+Q: Why should someone hire Subashree?
+A: She brings a rare mix of product thinking, full-stack engineering, applied AI, and real production experience. She has worked on large-scale travel systems, research tooling, security monitoring, AI assistants, data pipelines, and dashboards. She also communicates well, asks good questions, and takes ownership instead of just waiting for instructions.
+
+Q: Tell me about Subashree's AI experience.
+A: Subashree has built AI-powered tools like a Personal AI Assistant using RAG, OpenAI, Pinecone, FastAPI, and React, plus an AI Learning Planner using LLMs, semantic retrieval, and resume parsing. She has also worked with AI-assisted workflows in CourtReady, including case classification, hearing preparation, and feedback features.
+
+Q: What kind of teammate is Subashree?
+A: She is easygoing, communicative, supportive, and collaborative. She likes teams that share context openly and care about building the right thing. She asks questions when something does not make sense because she wants to understand the reasoning and improve the outcome.
+
+Q: What projects should I ask Subashree about?
+A: Good projects to ask about are her Personal AI Assistant, AI Learning Planner, Memories App, SyncUp mood and cycle tracker, CourtReady, and her Simons Foundation HPC benchmarks application. These show different sides of her: AI, full-stack development, mobile, data visualization, backend APIs, and user-focused product work.
+
+Q: Does Subashree have production engineering experience?
+A: Yes. At Amadeus, she worked on production systems used across 10,000+ systems, built reusable UI components, Spring Boot microservices, CI/CD workflows, and testing practices. At GlobalNOC, she worked on distributed security monitoring and alerting systems supporting 700+ institutions. At Simons Foundation, she built full-stack tools used by researchers.
+
+Q: Does Subashree have frontend experience?
+A: Yes. She has built React and Angular interfaces across internships, full-time roles, and projects. Examples include the Simons Foundation HPC dashboard with 20+ visualizations, Amadeus booking and notification flows, an Angular modernization project, and React frontends for her AI and full-stack projects.
+
+Q: Does Subashree have backend experience?
+A: Yes. She has built FastAPI services, Spring Boot microservices, Node/Express APIs, ETL pipelines, REST APIs, and database-backed systems. Her backend work includes HPC benchmark APIs, AI assistant APIs, learning planner services, re-encryption microservices, and document processing pipelines.
+
+Q: What makes Subashree different?
+A: She is not boxed into one layer of the stack. She can build the frontend, backend, data flow, AI layer, and deployment path, while still thinking about the user experience. She also has teaching and mentoring experience, which helps her explain ideas clearly and support teammates.

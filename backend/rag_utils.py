@@ -1,7 +1,7 @@
 #RAG ENGINE
 # | Function           | What it does                             | Why it's needed                  |
 # | ------------------ | ---------------------------------------- | -------------------------------- |
-# | `get_embedding`    | Turns text → vector                      | Pinecone stores/searches vectors |
+# | `get_embedding`    | Turns text â†’ vector                      | Pinecone stores/searches vectors |
 # | `chunk_text`       | Splits large docs into smaller chunks    | Better accuracy, cheaper         |
 # | `upsert_documents` | Stores embeddings + metadata in Pinecone | Builds your knowledge base       |
 # | `query_similar`    | Finds most relevant chunks to a question | Sends useful context to LLM      |

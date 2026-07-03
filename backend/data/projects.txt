@@ -1,0 +1,129 @@
+# Projects
+
+## Memories App
+
+Summary:
+A full-stack MERN app where users can create, edit, and manage personal posts and memories.
+
+What it does:
+Users can add posts, upload images, pin important highlights, and search or filter memories by date, location, and keywords.
+
+Subashree's role:
+Subashree developed the full-stack application, including the frontend, backend API, authentication flow, and database integration.
+
+Main features:
+- Create, edit, and manage posts
+- Image uploads
+- JWT-based authentication
+- Pinned highlights
+- Search and filtering by date, location, and keywords
+- RESTful API integration
+
+Tools and technologies:
+React.js, TailwindCSS, Node.js, Express.js, MongoDB Atlas, JWT, RESTful APIs.
+
+What this project shows:
+This project shows that Subashree can build a complete full-stack web app with user accounts, protected routes, media handling, database-backed content, and a practical search experience.
+
+## SyncUp: Mood & Cycle Tracker
+
+Summary:
+An iOS mobile app for mood journaling, menstrual cycle tracking, trend visualization, and personalized productivity tips.
+
+What it does:
+Users can log moods, track menstrual cycle phases, view trends over time, receive daily reminders, and get personalized productivity suggestions based on their patterns.
+
+Subashree's role:
+Subashree developed the iOS app experience using SwiftUI, including local data storage, charts, notifications, and the main tracking flows.
+
+Main features:
+- Mood journaling
+- Menstrual cycle phase tracking
+- Trend reports and visualizations
+- Local CoreData storage
+- Daily notifications
+- Personalized productivity tips
+
+Tools and technologies:
+Swift, iOS, SwiftUI, CoreData, Charts, UserNotifications.
+
+What this project shows:
+This project shows Subashree's ability to build thoughtful mobile experiences that combine personal data tracking, visualization, reminders, and user-centered design.
+
+## Personal AI Assistant
+
+Summary:
+A personal AI assistant that answers questions about Subashree using her resume, LinkedIn information, and other personal documents.
+
+What it does:
+The assistant retrieves relevant information from Subashree's documents and uses an AI model to answer questions in a grounded, conversational way.
+
+Subashree's role:
+Subashree built the end-to-end assistant, including document ingestion, retrieval, backend API, serverless deployment, and the React chat interface.
+
+Main features:
+- Conversational chat interface
+- Retrieval-augmented answers based on personal documents
+- Semantic search over document chunks
+- Serverless backend deployment
+- Source-aware responses
+- Responsive frontend UI
+
+Tools and technologies:
+AWS Lambda, FastAPI, OpenAI API, GPT-4.1-mini, Pinecone, React, AWS S3, CloudWatch, Mangum.
+
+What this project shows:
+This project shows Subashree's ability to build an applied AI product with retrieval, embeddings, cloud deployment, and a usable frontend experience.
+
+## AI Learning Planner
+
+Summary:
+An AI-driven platform that creates personalized learning paths from topics or resumes.
+
+What it does:
+Users can enter a topic or upload a resume, and the platform generates a customized learning roadmap based on their goals and background.
+
+Subashree's role:
+Subashree built the backend and frontend pieces for generating learning plans, parsing resumes, retrieving relevant context, and presenting roadmaps in a responsive interface.
+
+Main features:
+- Personalized roadmap generation
+- Topic-based learning plans
+- Resume-based learning recommendations
+- Resume parsing
+- Semantic retrieval
+- Real-time roadmap interface
+
+Tools and technologies:
+DeepSeek API, Llama 3, Pinecone, AWS Textract, FastAPI, React, TypeScript, Tailwind, Vite.
+
+What this project shows:
+This project shows Subashree's ability to combine LLMs, document parsing, retrieval, and frontend development into a useful AI learning tool.
+
+## CourtReady
+
+Summary:
+A civil court preparation assistant designed to help people understand their case, find legal aid, and prepare for hearings in accessible language.
+
+What it does:
+CourtReady guides users through plain-language intake, case classification, legal-aid routing, evidence preparation, and hearing practice. It supports English, Spanish, and Mandarin and is designed around accessibility and privacy.
+
+Subashree's role:
+Subashree worked with the CourtReady codebase and contributed to the user experience and routing timeline polish. The repository includes updates such as improving the routing timeline dots so all steps appear uniform and complete.
+
+Main features:
+- Voice-first intake
+- Multilingual support in English, Spanish, and Mandarin
+- Civil case classification and fact extraction
+- Legal-aid organization routing
+- Evidence checklist generation
+- Hearing simulator with judge-style practice
+- Printable preparation sheet
+- Tone and confidence feedback
+- Stateless privacy-focused design
+
+Tools and technologies:
+React, Vite, FastAPI, Python, JavaScript, CSS, Claude API, stateless JSON-based data.
+
+What this project shows:
+This project shows Subashree's interest in building socially useful tools, accessibility-focused interfaces, multilingual support, and AI-assisted workflows with careful ethical boundaries.

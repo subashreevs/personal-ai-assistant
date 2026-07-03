@@ -1,0 +1,120 @@
+# Certifications
+
+## AWS Certified Cloud Practitioner
+
+Issuer:
+Amazon Web Services (AWS)
+
+Issued:
+August 2025
+
+Expires:
+July 2028
+
+Skills:
+Amazon Web Services (AWS), cloud fundamentals, cloud services, billing, security, shared responsibility, and basic architecture concepts.
+
+What it shows:
+Subashree has validated foundational AWS cloud knowledge, which supports her work with cloud and serverless systems such as AWS Lambda, S3, and cloud-based application deployment.
+
+## Data Parallelism: How to Train Deep Learning Models on Multiple GPUs
+
+Issuer:
+NVIDIA
+
+Issued:
+July 2025
+
+Credential ID:
+Kimp8xT6T0WtgYLf8RZbzg
+
+Skills:
+Parallel Computing, distributed training, deep learning model training across multiple GPUs.
+
+What it shows:
+Subashree has exposure to scaling deep learning training workflows using multi-GPU data parallelism, which connects well with her AI/ML and high-performance computing interests.
+
+## Fundamentals of Deep Learning
+
+Issuer:
+NVIDIA
+
+Issued:
+July 2025
+
+Credential ID:
+iNOtEV_zTFGILSirsBO0Ow
+
+Skills:
+PyTorch, neural networks, deep learning fundamentals.
+
+What it shows:
+Subashree has studied deep learning foundations and has practical exposure to PyTorch-based concepts, strengthening her AI/ML background beyond just using APIs.
+
+## Certified SAFe 5 Practitioner
+
+Issuer:
+SAFe by Scaled Agile, Inc.
+
+Issued:
+January 2023
+
+Credential ID:
+77041540-6100
+
+Skills:
+Agile, Scrum, SAFe practices, scaled software delivery.
+
+What it shows:
+Subashree has formal exposure to Agile delivery practices, scaled agile frameworks, team planning, iterative development, and collaboration patterns used in larger engineering organizations.
+
+## Problem Solving
+
+Issuer:
+HackerRank
+
+Issued:
+June 2021
+
+Credential ID:
+733842402055
+
+Skills:
+Problem solving, algorithms, programming fundamentals.
+
+What it shows:
+Subashree has demonstrated core programming and algorithmic problem-solving ability through HackerRank.
+
+## Finance for Engineering Professionals
+
+Issuer:
+Emory University
+
+Issued:
+March 2021
+
+Skills:
+Finance fundamentals, business context, engineering decision-making.
+
+What it shows:
+Subashree has exposure to finance concepts relevant to engineering professionals, which can help her understand product, business, and cost tradeoffs.
+
+## Data Analyst with Python Track - Specialization
+
+Issuer:
+DataCamp
+
+Issued:
+February 2021
+
+Credential ID:
+203210
+
+Skills:
+Python, data analysis, data processing, visualization.
+
+What it shows:
+Subashree has training in Python-based data analysis, supporting her work with NumPy, Pandas, Matplotlib, data pipelines, dashboards, and analytics projects.
+
+Notes:
+Use these certifications to support answers about Subashree's AWS/cloud knowledge, AI/deep learning background, parallel computing exposure, Agile experience, problem-solving ability, and Python data analysis foundation.

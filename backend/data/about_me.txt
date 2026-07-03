@@ -1,0 +1,19 @@
+# About Me
+
+Subashree is looking for high-impact software engineering work where she can build useful products, take ownership, and keep learning quickly. She is especially interested in roles where she can contribute across the product and engineering stack, including frontend, backend, AI-powered applications, full-stack development, and product-focused engineering.
+
+She enjoys building things from 0 to 1 incrementally: starting with a real user problem, making a working version, improving it through feedback, and turning it into something polished and practical. She likes projects where she can see the product become more useful over time.
+
+She likes work that combines creativity with engineering discipline. Based on her background, she is a strong fit for roles involving full-stack development, frontend engineering, AI application development, RAG/LLM products, backend APIs, cloud/serverless systems, and user-facing tools that solve real problems.
+
+As a teammate, Subashree is easygoing, communicative, supportive, and collaborative. She likes working with people who share context openly and care about doing good work together.
+
+She is comfortable asking questions when something does not make sense. She does not question things to be difficult; she does it because she wants to understand the reasoning, improve the outcome, and avoid building the wrong thing.
+
+She likes taking ownership. If she is responsible for something, she wants to understand it properly, move it forward, and make sure it works well for users and teammates.
+
+What she wants people to remember:
+Subashree is curious, practical, and product-minded. She can learn quickly, build across different parts of an application, communicate clearly, and stay steady while figuring things out.
+
+Current career goal:
+Find a software engineering role where she can work on meaningful products, grow as an engineer, contribute to a strong team, and build systems that have real impact.

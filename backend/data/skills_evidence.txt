@@ -1,0 +1,153 @@
+# Skills Evidence
+
+## Frontend Engineering
+
+Evidence:
+Subashree has professional frontend experience across React, Angular, Angular Material, Material UI, Chart.js, D3.js, Tailwind, HTML, CSS/SCSS, and NgRx/Redux.
+
+Where she used it:
+- At Simons Foundation, she built a responsive React frontend with Material UI, Chart.js, and D3.js for an HPC benchmarks application with 20+ interactive visualizations used by 15+ researchers.
+- At Amadeus, she developed reusable UI components for Air, Hotel, and Rail booking flows and redesigned a user notification module used across 10,000+ production systems.
+- During her Amadeus internship, she modernized a 20-year-old translation tool with an Angular SPA, Angular Material, and NgRx.
+- In the AI Learning Planner, she built a React + TypeScript + Tailwind frontend for real-time roadmap generation.
+- In Memories App, she built a React + Tailwind user interface for creating, editing, searching, and managing posts.
+
+What this means:
+She is strong at building practical, user-facing interfaces, especially dashboards, workflows, data-heavy views, and responsive chat/product experiences.
+
+## Backend Engineering and APIs
+
+Evidence:
+Subashree has built backend systems using FastAPI, Spring Boot, Node.js, Express.js, REST APIs, Java, Python, and database-backed service layers.
+
+Where she used it:
+- At Simons Foundation, she developed FastAPI REST APIs with sub-second response times for complex hardware benchmark queries.
+- At Amadeus, she built Spring Boot microservices, re-encryption processes, and backend logic for production systems.
+- During her Amadeus internship, she replaced legacy Java Servlet backend logic with Spring Boot and REST APIs.
+- In Memories App, she used Node.js and Express.js to build full-stack post management and authentication features.
+- In the Personal AI Assistant and AI Learning Planner, she used FastAPI to serve AI-powered application workflows.
+
+What this means:
+She can design and implement backend APIs, connect them to databases, support frontend workflows, and work with production-style service architecture.
+
+## AI and LLM Applications
+
+Evidence:
+Subashree has experience building AI-powered applications using OpenAI, DeepSeek, Llama 3, RAG pipelines, embeddings, and vector databases.
+
+Where she used it:
+- In the Personal AI Assistant, she built a RAG pipeline using OpenAI GPT-4.1-mini, text-embedding-3-small, Pinecone, FastAPI, and React.
+- In the AI Learning Planner, she used DeepSeek API, Llama 3, Pinecone, and AWS Textract to generate personalized learning paths from topics or resumes.
+- CourtReady involved AI-assisted legal intake, case classification, hearing preparation, and tone/confidence feedback using Claude API.
+
+What this means:
+She is interested in applied AI work, especially products where LLMs are connected to real user workflows, retrieval, documents, and useful interfaces.
+
+## Data Engineering and ETL
+
+Evidence:
+Subashree has built data pipelines, cleaned and normalized large datasets, and designed database schemas for analytics and search.
+
+Where she used it:
+- At Simons Foundation, she built Python ETL pipelines to parse 10,000+ raw files including CSV, YAML, and JUBE logs.
+- She performed unit conversions, handled missing values, normalized datasets, and loaded data into MongoDB.
+- Her pipeline supported 1,000+ benchmark runs and 20,000+ data points from 30+ CPU and GPU architectures.
+- Query time improved by 50% after the unified MongoDB schema.
+
+What this means:
+She can work with messy data, build reliable data processing flows, and turn raw technical data into something searchable, visual, and useful.
+
+## Databases
+
+Evidence:
+Subashree has worked with MongoDB, MongoDB Atlas, Oracle SQL, MySQL, PostgreSQL, SQLite, NoSQL databases, and Pinecone vector database.
+
+Where she used it:
+- At Simons Foundation, she designed and used MongoDB schemas for HPC benchmark data.
+- At Amadeus, she optimized Oracle SQL stored procedures and improved response/page-load efficiency by 42%.
+- In Memories App, she used MongoDB Atlas for storing user posts and application data.
+- In AI projects, she used Pinecone for semantic search and retrieval.
+
+What this means:
+She is comfortable working with both traditional databases and vector databases, and she understands the connection between data modeling and application performance.
+
+## Cloud, DevOps, and Deployment
+
+Evidence:
+Subashree has experience with AWS, Azure, Docker, Jenkins, OpenShift, GitHub, GitLab, BitBucket, CI/CD workflows, and serverless deployment.
+
+Where she used it:
+- In the Personal AI Assistant, she deployed a FastAPI backend to AWS Lambda using Mangum and used AWS S3 and CloudWatch.
+- At Amadeus, she led a repository migration from BitBucket to GitHub and improved DevOps workflows using Microsoft Azure.
+- She deployed applications to OpenShift via Jenkins for testing and production rollouts.
+- She containerized an application with Docker and deployed it to Azure App Service.
+- She automated developer environment setup, reducing onboarding time by 75%.
+
+What this means:
+She can work beyond just application code and understands deployment, environment setup, CI/CD, and production-readiness concerns.
+
+## Testing and Code Quality
+
+Evidence:
+Subashree has written and worked with automated tests using JUnit, JUnit5, Mockito, Jasmine, Karma, Jest, and code quality tools.
+
+Where she used it:
+- At Amadeus, she achieved over 90% JUnit test coverage for production systems.
+- During her Amadeus internship, she wrote unit tests using JUnit5, Mockito, Jasmine, and Karma.
+- She has used tools such as SonarQube, Jira, Confluence, and Agile/Scrum practices in professional development workflows.
+
+What this means:
+She understands maintainability, reliability, and code quality as part of real software engineering work.
+
+## Mobile Development
+
+Evidence:
+Subashree has mobile development experience with Swift, SwiftUI, iOS, CoreData, Charts, UserNotifications, Kotlin, Android Studio, Jetpack Compose, and Flutter.
+
+Where she used it:
+- In SyncUp, she built an iOS app for mood journaling, menstrual cycle tracking, trend visualization, daily notifications, and personalized productivity tips.
+- Her graduate coursework includes mobile application development for Android and iOS.
+
+What this means:
+She can build mobile app experiences and is comfortable with user-centered personal tracking and notification-based workflows.
+
+## Data Visualization and Analytics
+
+Evidence:
+Subashree has strong evidence in visualization through Chart.js, D3.js, NetworkX, Pyvis, Vis.js, Matplotlib, and dashboard-building.
+
+Where she used it:
+- At Simons Foundation, she created 20+ interactive visualizations for HPC benchmark analysis.
+- As a Research Assistant, she created dynamic network graphs for crime network investigation using Python, JavaScript, NetworkX, Pyvis, and Vis.js.
+- At CDAC, she built dashboards and reports for a crime visualization tool for the Tamil Nadu Police Department.
+- In SyncUp, she used Charts to visualize mood and cycle trends.
+
+What this means:
+She is good at turning complex data into visual, explorable interfaces that help people understand patterns and make decisions.
+
+## Teaching, Mentoring, and Communication
+
+Evidence:
+Subashree has experience teaching, mentoring, and supporting other developers and students.
+
+Where she used it:
+- As an Associate Instructor at Indiana University, she mentored 50+ students in Python, Data Structures, NumPy, Pandas, and Matplotlib.
+- She led a team of teaching assistants, delivered debugging support, helped with labs and office hours, and reviewed student code.
+- At Amadeus, she mentored 6+ new hires and interns, helping with setup, knowledge transfer, and technical guidance.
+
+What this means:
+She communicates well, supports teammates, explains technical ideas, and is comfortable helping others grow.
+
+## Research and Problem Solving
+
+Evidence:
+Subashree has research and applied problem-solving experience in social network analysis, machine learning, data analysis, algorithms, and visualization.
+
+Where she used it:
+- As a Research Assistant at SSN College of Engineering, she proposed and built a tool for visualizing and investigating real-world crime networks using Social Network Analysis.
+- She computed centrality measures, detected communities, added search/filtering, and used shortest path algorithms to identify links between people.
+- She demonstrated the tool at the State Crime Records Bureau, Tamil Nadu.
+- At MedTourEasy, she worked on a model for predicting blood donations using Python, Pandas, NumPy, Matplotlib, and scikit-learn.
+
+What this means:
+She is comfortable with ambiguous problems, analytical thinking, and building tools that make complex information easier to reason about.
